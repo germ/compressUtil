@@ -1,0 +1,7 @@
+compressUtil
+-=-=-=-=-=-=
+
+A simple CLI frontend for germ/imageCompress
+
+Example Usage:
+	./compressUtil -i testData.txt -o asdf.png -c
